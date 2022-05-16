@@ -2,9 +2,6 @@
 Project started on 16/05/22
 
 '''
-
-days = {1: "Monday", 2: "Tuesday", 3: "Wednesday", 4: "Thursday", 5: "Friday", 6:
-"Saturday", 7: "Sunday"}
 pswd=str(input("Enter a password: "))
 print("your password is: ", pswd)
 
